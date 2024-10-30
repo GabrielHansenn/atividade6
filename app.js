@@ -21,8 +21,8 @@ app.use(session({
 
 // dados exemplo
 const users = {
-    gabriel: 'gabriel2',
-    arthur: 'futebol07',
+    gabriel: '123456',
+    giovane: '123456',
 };
 
 // produtos
