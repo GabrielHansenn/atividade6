@@ -27,10 +27,10 @@ const users = {
 
 // produtos
 const produtos = [
-    { id: 1, nome: 'Banana', preco: 4.90 },
-    { id: 2, nome: 'Maçã', preco: 3.90 },
-    { id: 3, nome: 'Jack Daniels', preco: 119.90 },
-    { id: 4, nome: 'Bigloff', preco: 9.90 },
+    { id: 1, nome: 'Arroz', preco: 4.90 },
+    { id: 2, nome: 'Feijão', preco: 3.90 },
+    { id: 3, nome: 'Whisky', preco: 119.90 },
+    { id: 4, nome: 'Vodka', preco: 9.90 },
     { id: 5, nome: 'RedBull', preco: 9.99 },
 ];
 
