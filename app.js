@@ -14,9 +14,9 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(cookieParser());
 
 app.use(session({
-    secret: 'minhachave', // Chave para acessar os cookies
-    resave: false, // Evita gravar sessões sem alterações
-    saveUninitialized: true // Salvar na guia anônima 
+    secret: 'minhachave',
+    resave: false, 
+    saveUninitialized: true 
 }));
 
 // dados exemplo
